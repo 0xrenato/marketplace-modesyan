@@ -1,0 +1,17 @@
+.tox .tox-menubar {
+	background-color: #fcfcfc !important;
+}
+.tox .tox-toolbar, .tox .tox-toolbar__overflow, .tox .tox-toolbar__primary {
+	background-color: #fcfcfc !important;
+}
+.tox .tox-statusbar {
+	background-color: #fcfcfc !important;
+}
+.tox .tox-statusbar a, .tox .tox-statusbar__path-item, .tox .tox-statusbar__wordcount {
+	color: rgba(34, 47, 62, .3) !important;
+	font-size: 11px !important;
+}
+.tox-fullscreen .tox.tox-tinymce.tox-fullscreen {
+	z-index: 99999999 !important;
+}
+
